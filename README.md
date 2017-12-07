@@ -63,7 +63,7 @@ In this project we are using few technologies and software to help us achieve th
 - [HTML](https://www.w3schools.com/html/) and [CSS](https://www.w3schools.com/css/default.asp) for Front-End and integration
 - [JavaScript](https://www.w3schools.com/js/default.asp) for webpage interaction
 - [SASS](http://sass-lang.com/guide) with the scss syntax (closer to the pure CSS)
-- [Reboot.css](https://v4-alpha.getbootstrap.com/content/reboot/)
+- [Normalize.css](https://necolas.github.io/normalize.css/)
 - [Gulp](https://gulpjs.com/)
 - [PHP](https://www.w3schools.com/php/)
 - [MySQL](http://www.mysqltutorial.org/)
