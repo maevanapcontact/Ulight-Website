@@ -1,10 +1,14 @@
-# Ulight
+# Ulight Website
 
-Welcome to the **Ulight Project**!
+Welcome to the **Ulight Website Project**!
 
 Here, we are making a Framework and a website for this Framework!
 
 **Ulight** is a **CSS/ JavaScript Framework** to style original websites.
+
+**To work with the Website, you are in the good repository**
+
+**To work with the Framework, please visit [this repository](https://github.com/maevanapcontact/Ulight)**
 
 
 ## The Framework
