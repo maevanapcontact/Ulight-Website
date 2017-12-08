@@ -76,6 +76,30 @@ You will find all **tasks** to do in those trello boards. Once you've decided wh
 - Front-End: https://trello.com/b/dc21HkUj/front-end
 - Marketing:https://trello.com/b/6qyC7P5z/marketing
 
+## Requirements to start working
+### Front-End part
+
+We work with [GULP](https://gulpjs.com/) that is a task manager. It is here to help us automate some repetitive tasks and to normalize our work.
+
+To be able to work efficiently in this project, you will need GULP. So download it and learn it enough to contribute to the project.
+
+Here are some tutorials to help you in your journey:
+- https://www.youtube.com/watch?v=1rw9MfIleEg
+- https://www.youtube.com/watch?v=LmdT2zhFmn4&list=PLv1YUP7gO_viROuRcGsDCNM-FUVgMYb_G
+- https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
+
+To start working, you will need to install [Node.js](https://nodejs.org/en/) and to download locally those GULP packages
+- [Uglify](https://www.npmjs.com/package/gulp-uglify)
+- [SASS](https://www.npmjs.com/package/gulp-sass)
+- [Concat](https://www.npmjs.com/package/gulp-concat)
+- [ImageMin](https://github.com/sindresorhus/gulp-imagemin) - for the website only
+
+**Don't forget that we have 2 repositories!!**
+
+One for the Website (this current one) and one for the [Framework](https://github.com/maevanapcontact/Ulight)
+
+So you will need to install GULP locally 2 times (except if you wish to work only on one project).
+
 ## Contact
 ### Slack
 If you are from the Udacity Front-End Developer path, you can join the channel #ulight on Slack
