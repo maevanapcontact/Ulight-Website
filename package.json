@@ -20,6 +20,12 @@
   },
   "homepage": "https://github.com/maevanapcontact/Ulight-Website#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "gulp-sass": "^3.1.0"
   }
 }
