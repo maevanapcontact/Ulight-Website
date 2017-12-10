@@ -50,12 +50,55 @@ We need web designers and graphic designers of all abilities to build the templa
 We need markters or people that are interested in marketing to make the project in better positioning and present it to the whole community.
 
 ## Get Started
-### Pull the Project
+
 - [Install Git](https://git-scm.com/downloads)
 
-Here are some tutorials to help you install and use Git ([basic commands](https://try.github.io/levels/1/challenges/1), [full tutorial](https://www.slideshare.net/IslamSayed18/github-tutorial-83175509))
-- Create a folder that will welcome the project in your computer
-- Pull the project to make your changes
+Here are some tutorials to help you **install and use Git** ([basic commands](https://try.github.io/levels/1/challenges/1), [full tutorial](https://www.slideshare.net/IslamSayed18/github-tutorial-83175509))
+- **Fork** the project (Here is a [tutorial about Fork](https://help.github.com/articles/fork-a-repo/))
+- **Create a new folder** in your computer to welcome the project from GitHub
+- Open the **Git console** and navigate inside your computer, positioned yourself on the new folder you have created
+- **Clone your fork** of the repository in your current folder using this command:
+
+`git clone https://github.com<your-github-pseudo>/Ulight-Website.git`  
+
+You can find this link following those steps:
+1. Go to your **GitHub profile**
+2. Go to your **fork** of the Project
+3. Press **"Clone or download"**
+
+![Clone or Download](docs/images/link-repository.png)
+4. **Copy/ paste the URL** using HTTPs (Not SSH)
+- Navigate inside the new folder that had been created using this command:
+
+`cd Ulight-Website`
+- Set the **remote upstream** to the original repository using this command:
+
+`git remore add upstream https://github.com/maevanapcontact/Ulight-Website.git`
+- Be sure to be **up-to-date** with your version of the repository with those commands:
+
+```
+git checkout ulight-website-dev
+git pull upstream ulight-website-dev
+```
+
+For more information about remotes check [this tutorial](https://help.github.com/articles/adding-a-remote/)
+
+
+- Create a **new branch** to make your own changes, check those [Udacity Guidelines Git](https://udacity.github.io/git-styleguide/) to know how to create good commits name.
+
+`git checkout -b name-of-your-branch`
+- It is the time to open your text editor and to start working on your changes!
+
+When you are ready to submit your work, then continue.
+- Locally **rebase the upstream branch** into the branch you have created to do your changes by using this command:
+
+`git pull --rebase upstream ulight-website-dev`
+- **Push your work** (on your new branch) in your own fork of the project using this command:
+
+`git push origin name-of-your-branch`
+- Open a **Pull Request** to submit your work. Be sure to propose it into the branch ulight-dev.
+
+Here is a [tutorial about Pull Requests](https://help.github.com/articles/creating-a-pull-request/)
 
 ### Learn and work
 In this project we are using few technologies and software to help us achieve the work. You can easily learn about those by taking a look to the tutorials.
@@ -70,11 +113,11 @@ In this project we are using few technologies and software to help us achieve th
 
 ### Trello
 You will find all **tasks** to do in those trello boards. Once you've decided what you want to do, contact the lead of the field and ask him to assign you the task.
-- UX Design: https://trello.com/b/rc1sScmS/ux-design
-- Backend: https://trello.com/b/0UGED8ew/backend
-- UI/ Web design: https://trello.com/b/ODKM9jhg/graphic-design
-- Front-End: https://trello.com/b/dc21HkUj/front-end
-- Marketing:https://trello.com/b/6qyC7P5z/marketing
+- [UX Design Trello Board](https://trello.com/b/rc1sScmS/ux-design)
+- [Backend Trello Board](https://trello.com/b/0UGED8ew/backend)
+- [UI/ Web design Trello Board](https://trello.com/b/ODKM9jhg/graphic-design)
+- [Front-End Trello Board](https://trello.com/b/dc21HkUj/front-end)
+- [Marketing Trello Board](https://trello.com/b/6qyC7P5z/marketing)
 
 ## Requirements to start working
 ### Front-End part
@@ -89,10 +132,9 @@ Here are some tutorials to help you in your journey:
 - https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
 
 To start working, you will need to install [Node.js](https://nodejs.org/en/) and to download locally those GULP packages
-- [Uglify](https://www.npmjs.com/package/gulp-uglify)
 - [SASS](https://www.npmjs.com/package/gulp-sass)
-- [Concat](https://www.npmjs.com/package/gulp-concat)
 - [ImageMin](https://github.com/sindresorhus/gulp-imagemin) - for the website only
+
 
 **Don't forget that we have 2 repositories!!**
 
