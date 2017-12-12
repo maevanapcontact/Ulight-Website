@@ -49,7 +49,7 @@ We need web designers and graphic designers of all abilities to build the templa
 
 ### Marketing
 
-We need markters or people that are interested in marketing to make the project in better positioning and present it to the whole community.
+We need marketers or people that are interested in marketing to make the project in better positioning and present it to the whole community.
 
 ## Get Started
 
@@ -75,7 +75,7 @@ You can find this link following those steps:
 `cd Ulight-Website`
 - Set the **remote upstream** to the original repository using this command:
 
-`git remore add upstream https://github.com/maevanapcontact/Ulight-Website.git`
+`git remote add upstream https://github.com/maevanapcontact/Ulight-Website.git`
 - Be sure to be **up-to-date** with your version of the repository with those commands:
 
 ```
@@ -114,7 +114,7 @@ In this project we are using few technologies and software to help us achieve th
 - [MySQL](http://www.mysqltutorial.org/)
 
 ### Trello
-You will find all **tasks** to do in those trello boards. Once you've decided what you want to do, contact the lead of the field and ask him to assign you the task.
+You will find all **tasks** to do in those Trello boards. Once you've decided what you want to do, contact the lead of the field and ask him to assign you the task.
 - [UX Design Trello Board](https://trello.com/b/rc1sScmS/ux-design)
 - [Backend Trello Board](https://trello.com/b/0UGED8ew/backend)
 - [UI/ Web design Trello Board](https://trello.com/b/ODKM9jhg/graphic-design)
