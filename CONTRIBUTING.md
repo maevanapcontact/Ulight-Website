@@ -31,6 +31,20 @@ If you have never made any pull request on your life, **you are in the right pla
 
 **You can also check this great repository from [Syknapse](https://github.com/Syknapse/Contribute-To-This-Project) to learn how to contribute on GitHub!**
 
+## What should I do?
+
+You will find all tasks to do into the [Issues](https://github.com/maevanapcontact/Ulight-Website/issues) page. 
+Each of them are **labelled**, that means you can filter them depending of your field of interest.
+*For instance, you will have the labels: front-end, design…*
+**Hint**: you can start by the "good first issue" one, they are perfect for beginners
+
+Then, when you **choose** an issue, click on it and you will have **more info** about it.
+There, you can ask question or comment.
+If you want to do this task: **assign yourself** to it, by clicking next to « Assignees » and choosing your name.
+
+Now, it’s up to you! 
+You can find more info about how issues work at this [link](https://guides.github.com/features/issues/).
+Let’s found out how to do in the next part.
 
 ## Pull Request Process
 
