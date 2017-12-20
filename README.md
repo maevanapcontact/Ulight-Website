@@ -1,6 +1,6 @@
 # Ulight Website
 
-The **Website for the Ulight Framework.** Here is the documentation and the information about the Framework.
+The **Website for the Ulight Framework.** Here is the documentation and the information about this website.
 
 
 ## Getting Started
