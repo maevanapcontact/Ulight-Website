@@ -100,6 +100,33 @@ git push origin name-of-your-branch
 Here is a [tutorial about Pull Requests](https://help.github.com/articles/creating-a-pull-request/)
 
 
+## Guidelines
+
+For the consistency of this project, the following guides need to be followed.
+
+**If you submit a Pull Request that doesn't follow those guidelines we won't be able to accept it, but we will give you feedback on the conversation!**
+
+- [HTML Guidelines](https://udacity.github.io/frontend-nanodegree-styleguide/)
+- [CSS Guidelines](https://udacity.github.io/frontend-nanodegree-styleguide/css.html)
+- [JavaScript Guidelines](https://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+- [Git Guidelines](https://udacity.github.io/git-styleguide/)
+
+
+### If you write SCSS...
+
+Please **compile** your scss code before submitting your pull request. You can use [Prepros](https://prepros.io/) which is really easy to use. You can check the [SASS Tutorial from The Net Ninja](https://www.youtube.com/watch?v=b0d--jixRwg&index=2&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA) to see how Prepros works.
+
+Use the following syntax if you create any new SCSS file "\_name-of-your-file.scss"
+
+And import it on the _style.scss_ file using the code:
+
+```
+@import 'name-of-your-file'
+```
+
+**DO NOT WRITE CSS DIRECTLY! THE FILE IS GENERATED AUTOMATICALLY**
+
+
 ## Code of Conduct
 
 ### Our Pledge
