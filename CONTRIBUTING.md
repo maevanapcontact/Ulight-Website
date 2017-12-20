@@ -95,7 +95,7 @@ git pull --rebase upstream ulight-website-dev
 git push origin name-of-your-branch
 ```
 
-- Open a **Pull Request** to submit your work. Be sure to propose it into the branch ulight-dev.
+- Open a **Pull Request** to submit your work. Be sure to propose it into the branch ulight-website-dev.
 
 Here is a [tutorial about Pull Requests](https://help.github.com/articles/creating-a-pull-request/)
 
