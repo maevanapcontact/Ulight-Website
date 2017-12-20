@@ -40,7 +40,7 @@ Each of them are **labelled**, that means you can filter them depending of your 
 
 Then, when you **choose** an issue, click on it and you will have **more info** about it.
 There, you can ask question or comment.
-If you want to do this task: **assign yourself** to it, by clicking next to « Assignees » and choosing your name.
+If you want to do this task: **Declare yourself** by leaving a comment => this will prevent several people from working on the same task.
 
 Now, it’s up to you! 
 You can find more info about how issues work at this [link](https://guides.github.com/features/issues/).
